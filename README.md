@@ -1,4 +1,4 @@
-UNBRICK ARDUINO NANO 33 IOT WITH A ARUDINO MKR ZERO
+UNBRICK ARDUINO NANO 33 IOT WITH A ARDUINO MKR ZERO
 
 
 The only way I could find to recover the board was by burning the bootloader.
